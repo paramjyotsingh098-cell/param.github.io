@@ -12,7 +12,7 @@
     <script>
  <h3> DEATH NOTE</h3>
         const pdfUrl = New folder file://ADMIN-PC/New%20folder
-/path-to-your-manga.pdf";
+/path-to-your-manga.pdf;
         
       
 
