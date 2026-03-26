@@ -16,10 +16,6 @@
         
       
 
-        // Redirect after 3 seconds (3000 milliseconds)
-        setTimeout(() => {
-            window.location.href = pdfUrl;
-        }, 3000);
-    </script>
+       
 </body>
 </html>
